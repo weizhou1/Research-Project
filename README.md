@@ -1,7 +1,6 @@
 # MixBin
 A PyTorch implementation for the Honours project in ANU <br>
 Metagenomic Binning via Graph Representation Learning and Clustering<br>
-[Wei Zhou](https://github.com/weizhou1)
 
 ## Overview
 
