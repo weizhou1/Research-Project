@@ -3,7 +3,7 @@ A PyTorch implementation for the Honours project in ANU <br>
 Metagenomic Binning via Graph Representation Learning and Clustering<br>
 
 ## Overview
-
+CHekc out my [thesis] (https://github.com/weizhou1/Research-Project/blob/main/Wei_Zhou_thesis_final.pdf) for more detail 
 
 
 ## Usage
