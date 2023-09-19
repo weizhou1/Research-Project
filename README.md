@@ -21,12 +21,12 @@ To reproduce the experiments on Sim-5G dataset, simply run:
 python3 main.py --dataset Sim-5G --fasta_file Sim-5G
 ```
 
-<!-- ## Citation
+## Citation
 ```bibtex
 @inproceedings{Xue2022RepBin,
   title     = {RepBin: Constraint-Based Graph Representation Learning for Metagenomic Binning},
   author    = {Xue, Hansheng and Mallawaarachchi, Vijini and Zhang, Yujia and Rajan, Vaibhav and Lin, Yu},
   booktitle = {AAAI},
   year      = {2022}
-} -->
+}
 ```
